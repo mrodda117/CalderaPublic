@@ -1,2 +1,2 @@
 # CalderaPublic
-Public repo for the ExplorerSA competition
+Public repo for various Caldera Analytics jupyter notebooks.
